@@ -1,0 +1,3 @@
+﻿EpidemicSimulation.obj : error LNK2019: unresolved external symbol __imp_pthread_exit referenced in function "void __cdecl thread_for_movement(void *)" (?thread_for_movement@@YAXPEAX@Z)
+C:\Users\alexa\OneDrive\Desktop\pthreads\Pre-built.2\lib\x86\pthreadVC2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\alexa\OneDrive\Desktop\DmdHomewrok\EpidemicSimulation\x64\Debug\EpidemicSimulation.exe : fatal error LNK1120: 1 unresolved externals
